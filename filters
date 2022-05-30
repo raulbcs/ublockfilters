@@ -1,7 +1,16 @@
-! estadao.com.br
-estadao.com.br##.article-softwall-banner
-estadao.com.br##.nao-assinante.push-body
-
-! uol.com.br
+! 2022-05-20 UOL
 uol.com.br##.bannersticky-base
 uol.com.br##.bannersticky-top-container
+uol.com.br##.bannersticky-wrapper
+
+! 2022-05-20 Estadão
+acesso.estadao.com.br/paywall/v2/*
+assets.zephr.com/zephr-browser/1.3.10/zephr-browser.umd.js
+estadao.com.br##.article-softwall-banner
+estadao.com.br##.loaded.assine-area
+estadao.com.br##.nao-assinante.push-body
+
+! 2022-05-20 Folha de S Paulo
+folha.uol.com.br##div#c-top-signup
+folha.uol.com.br##div#top-signup-close-bf
+folha.uol.com.br##div#top-signup-close-bf.c-top-signup.c-top-signup--fix.c-top-signup--close.c-top-signup--close--bf div.container
