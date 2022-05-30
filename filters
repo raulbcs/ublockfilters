@@ -10,7 +10,9 @@ estadao.com.br##.article-softwall-banner
 estadao.com.br##.loaded.assine-area
 estadao.com.br##.nao-assinante.push-body
 
-! 2022-05-20 Folha de S Paulo
+! 2022-05-30 Folha de S Paulo
+comentarios1.folha.uol.com.br/*
+paywall.folha.uol.com.br/*
+folha.uol.com.br##div#c-notification-link-app
 folha.uol.com.br##div#c-top-signup
 folha.uol.com.br##div#top-signup-close-bf
-folha.uol.com.br##div#top-signup-close-bf.c-top-signup.c-top-signup--fix.c-top-signup--close.c-top-signup--close--bf div.container
