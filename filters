@@ -5,14 +5,23 @@ uol.com.br##.bannersticky-wrapper
 
 ! 2022-05-20 Estadão
 acesso.estadao.com.br/paywall/v2/*
-assets.zephr.com/zephr-browser/1.3.10/zephr-browser.umd.js
+assets.zephr.com/zephr-browser/*
+estadao.com.br##div#intersitial-modal.interstitial-container
+estadao.com.br##div.ajuste-banner
+estadao.com.br##div.assine-estadao
 estadao.com.br##.article-softwall-banner
 estadao.com.br##.loaded.assine-area
 estadao.com.br##.nao-assinante.push-body
+estadao.com.br##section.mold-assine
 
-! 2022-05-30 Folha de S Paulo
+! 2022-05-31 Folha de S Paulo
 comentarios1.folha.uol.com.br/*
 paywall.folha.uol.com.br/*
+folha.uol.com.br##div.block.block--pub-super
+folha.uol.com.br##div.c-push-notification
+folha.uol.com.br##div.c-news__content > div.c-context.js-continue-reading-hidden
+folha.uol.com.br##div.c-news__content > div.rs_skip
 folha.uol.com.br##div#c-notification-link-app
 folha.uol.com.br##div#c-top-signup
 folha.uol.com.br##div#top-signup-close-bf
+folha.uol.com.br##section#comentarios
