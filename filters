@@ -29,3 +29,8 @@ folha.uol.com.br##div#c-notification-link-app
 folha.uol.com.br##div#c-top-signup
 folha.uol.com.br##div#top-signup-close-bf
 folha.uol.com.br##section#comentarios
+
+! 2022-11-29 OGlobo
+oglobo.globo.com##div.ad-container-top-placeholder
+oglobo.globo.com##div.barreiraJornada
+static.infoglobo.com.br/paywall/js/*
