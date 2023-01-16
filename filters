@@ -1,4 +1,4 @@
-! 2022-05-20 UOL
+! UOL
 uol.com.br##.bannersticky-base
 uol.com.br##.bannersticky-top-container
 uol.com.br##.bannersticky-wrapper
@@ -6,7 +6,7 @@ uol.com.br##.magazine-cover
 uol.com.br##slot-m
 uol.com.br##.up-floating
 
-! 2022-05-20 Estadão
+! Estadão
 acesso.estadao.com.br/paywall/v2/*
 assets.zephr.com/zephr-browser/*
 estadao.com.br##div#intersitial-modal.interstitial-container
@@ -18,7 +18,7 @@ estadao.com.br##.loaded.assine-area
 estadao.com.br##.nao-assinante.push-body
 estadao.com.br##section.mold-assine
 
-! 2022-05-31 Folha de S Paulo
+! Folha de S Paulo
 comentarios1.folha.uol.com.br/*
 paywall.folha.uol.com.br/*
 folha.uol.com.br##div.block.block--pub-super
@@ -30,9 +30,12 @@ folha.uol.com.br##div#c-top-signup
 folha.uol.com.br##div#top-signup-close-bf
 folha.uol.com.br##section#comentarios
 
-! 2022-11-29 OGlobo
+! OGlobo
 oglobo.globo.com##div.ad-container-top-placeholder
 oglobo.globo.com##div.barreiraJornada
 static.infoglobo.com.br/paywall/js/*
+
+! Veja
+veja.abril.com.br/wp-content/plugins/abril-plugins/abril-paywall/*
 
 shownoticias.live/*
