@@ -5,6 +5,7 @@ uol.com.br##.bannersticky-wrapper
 uol.com.br##.magazine-cover
 uol.com.br##slot-m
 uol.com.br##.up-floating
+page-context.uol.com.br/api/*
 
 ! Estadão
 acesso.estadao.com.br/paywall/v2/*
@@ -37,5 +38,10 @@ static.infoglobo.com.br/paywall/js/*
 
 ! Veja
 veja.abril.com.br/wp-content/plugins/abril-plugins/abril-paywall/*
+
+! OAntagonista
+cdn.oantagonista.com/assets/js/wallcontent*
+oantagonista.com/assets/js/wallcontent*
+receiver.posclick.dinamize.com/forms/js/*
 
 shownoticias.live/*
