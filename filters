@@ -46,7 +46,16 @@ cdn.oantagonista.com/chatbot/aewppchat*
 
 shownoticias.live/*
 
+
+legendei.net/z-5778106
+legendei.net/wp-includes/js/*
+legendei.net/wp-content/themes/simple-grid/assets/js/*
+legendei.net/wp-content/plugins/wordpress-popular-posts/assets/js/*
+legendei.net/wp-content/plugins/featured-image-from-url/includes/html/js/*
+legendei.net##.aioseo-schema
+
 legendei.net##+js(set, eazy_ad_unblocker_popup_params, null)
+||legendei.net/*$csp=script-src 'none'
 
 hltv.org##.kgN8P9bvyb2EqDJR 
 hltv.org##.ggbe-firstcol-box
@@ -60,3 +69,4 @@ cdnjs.cloudflare.com/ajax/libs/crypto-js/*
 
 aqdha.com/script/*
 leteer.com/*
+adtng.com
