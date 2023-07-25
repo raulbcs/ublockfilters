@@ -1,11 +1,22 @@
 ! UOL
+
+abtest.conteudo.uol/
+comentarios.uol.com.br/*
+conteudo.jsuol.com.br/p/perfil/js/widgetNotify.*
+page-context.uol.com.br/api/*
+privacy-sandbox.uol.com.br/
+uol.com.br###uolpd-banner-inarticle
+uol.com.br##.BannerDisneyPlay__Container
 uol.com.br##.bannersticky-base
 uol.com.br##.bannersticky-top-container
 uol.com.br##.bannersticky-wrapper
 uol.com.br##.magazine-cover
-uol.com.br##slot-m
+uol.com.br##.obx-ad
+uol.com.br##.skyline-spot.obx-spots
+uol.com.br##.skyline-spot.obx-spots
 uol.com.br##.up-floating
-page-context.uol.com.br/api/*
+uol.com.br##slot-m
+
 
 ! Estadão
 acesso.estadao.com.br/paywall/v2/*
@@ -46,14 +57,12 @@ cdn.oantagonista.com/chatbot/aewppchat*
 
 shownoticias.live/*
 
-
 legendei.net/z-5778106
 legendei.net/wp-includes/js/*
 legendei.net/wp-content/themes/simple-grid/assets/js/*
 legendei.net/wp-content/plugins/wordpress-popular-posts/assets/js/*
 legendei.net/wp-content/plugins/featured-image-from-url/includes/html/js/*
 legendei.net##.aioseo-schema
-
 legendei.net##+js(set, eazy_ad_unblocker_popup_params, null)
 ||legendei.net/*$csp=script-src 'none'
 
