@@ -49,10 +49,19 @@ folha.uol.com.br##div#top-signup-close-bf
 folha.uol.com.br##section#comentarios
 
 ! OGlobo
+cdn.ampproject.org
+cdn.onesignal.com/*
+cocoon.globo.com/*
+globo-ab.globo.com
+globo.com###ad-container-top-placeholder
+globo.com###boxComentarios
+globo.com##.comments
 globo.com##.content-ads
 globo.com##.glb-ads-container--hide
-oglobo.globo.com##div.ad-container-top-placeholder
-oglobo.globo.com##div.barreiraJornada
+globo.com##div.ad-container-top-placeholder
+horizon-schemas.globo.com/*
+id.globo.com
+s3.glbimg.com/v1/*/horizon-client/horizon-client-js.min.js
 static.infoglobo.com.br/paywall/js/*
 
 ! Veja
