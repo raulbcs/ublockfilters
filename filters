@@ -49,7 +49,8 @@ folha.uol.com.br##div#top-signup-close-bf
 folha.uol.com.br##section#comentarios
 
 ! OGlobo
-globo.com###content-ads-banner_materia1
+globo.com##.content-ads
+globo.com##.glb-ads-container--hide
 oglobo.globo.com##div.ad-container-top-placeholder
 oglobo.globo.com##div.barreiraJornada
 static.infoglobo.com.br/paywall/js/*
