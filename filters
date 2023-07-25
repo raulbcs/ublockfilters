@@ -1,9 +1,12 @@
 ! UOL
+
 abtest.conteudo.uol/
+cdn.tinypass.com/
 comentarios.uol.com.br/*
 conteudo.jsuol.com.br/p/perfil/js/widgetNotify.*
 page-context.uol.com.br/api/*
 privacy-sandbox.uol.com.br/
+tinypass.com/
 uol.com.br###uolpd-banner-inarticle
 uol.com.br##.BannerDisneyPlay__Container
 uol.com.br##.bannersticky-base
@@ -14,9 +17,11 @@ uol.com.br##.jupiter-paragraph-fragment .campaign-container
 uol.com.br##.magazine-cover
 uol.com.br##.obx-ad
 uol.com.br##.skyline-spot.obx-spots
+uol.com.br##.tp-active.tp-backdrop
+uol.com.br##.tp-active.tp-iframe-wrapper
+uol.com.br##.tp-modal-overscroll-prevented.tp-modal
 uol.com.br##.up-floating
 uol.com.br##slot-m
-
 
 
 ! Estadão
@@ -44,6 +49,7 @@ folha.uol.com.br##div#top-signup-close-bf
 folha.uol.com.br##section#comentarios
 
 ! OGlobo
+globo.com###content-ads-banner_materia1
 oglobo.globo.com##div.ad-container-top-placeholder
 oglobo.globo.com##div.barreiraJornada
 static.infoglobo.com.br/paywall/js/*
