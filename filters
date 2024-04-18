@@ -86,7 +86,6 @@ legendei.net##+js(set, eazy_ad_unblocker_popup_params, null)
 
 hltv.org##.kgN8P9bvyb2EqDJR 
 hltv.org##.ggbe-firstcol-box
-hltv.org##.thunderpick-firstcol-box
 
 runalyze.com/ads.js
 cwchat.runalyze.com/*
@@ -97,3 +96,27 @@ cdnjs.cloudflare.com/ajax/libs/crypto-js/*
 aqdha.com/script/*
 leteer.com/*
 adtng.com
+
+legendei.net##^meta[http-equiv="refresh"]
+||www.youtube.com/embed/$subdocument,domain=estadao.com.br
+||www.youtube.com/embed/$subdocument,domain=uol.com.br
+||www.youtube.com/embed/$subdocument,domain=torrentdosfilmes.site
+
+! 2024-01-23 https://www.hltv.org
+www.hltv.org##.hpoujlijfd.column-euvSWYMDm4JzUCnc-box
+www.hltv.org##.mid-container
+www.hltv.org##.matchpage-analytics-section
+www.hltv.org##.matchpage-after-betting-web
+www.hltv.org###betting > .section-spacer
+
+
+https://cdn.jsdelivr.net/npm/console-ban@*/dist/console-ban.min.js
+
+https://cdn.bj2550.com/*.js
+
+! 2024-03-14 https://www.hltv.org
+www.hltv.org##.mobile-normal-priority.col-8
+
+! 2024-04-15 https://www.dust2.com.br
+www.dust2.com.br##.nav-topbar-banner-container
+||www.dust2.com.br/imgstatic/*.png?ixlib=java-2.1.0&s=*$image
