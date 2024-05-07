@@ -1,5 +1,4 @@
 ! UOL
-
 abtest.conteudo.uol/
 cdn.tinypass.com/
 comentarios.uol.com.br/*
@@ -7,11 +6,11 @@ conteudo.jsuol.com.br/p/perfil/js/widgetNotify.*
 page-context.uol.com.br/api/*
 privacy-sandbox.uol.com.br/
 tinypass.com/
-uol.com.br###uolpd-banner-inarticle
 uol.com.br##.BannerDisneyPlay__Container
 uol.com.br##.bannersticky-base
 uol.com.br##.bannersticky-top-container
 uol.com.br##.bannersticky-wrapper
+uol.com.br##.email
 uol.com.br##.jupiter-ads
 uol.com.br##.jupiter-paragraph-fragment .campaign-container
 uol.com.br##.magazine-cover
@@ -21,44 +20,47 @@ uol.com.br##.tp-active.tp-backdrop
 uol.com.br##.tp-active.tp-iframe-wrapper
 uol.com.br##.tp-modal-overscroll-prevented.tp-modal
 uol.com.br##.up-floating
+uol.com.br###uolpd-banner-inarticle
 uol.com.br##slot-m
-
+||www.youtube.com/embed/$subdocument,domain=uol.com.br
 
 ! Estadão
 acesso.estadao.com.br/paywall/v2/*
 assets.estadao.com.br/access.js
 assets.zephr.com/zephr-browser/*
-estadao.com.br##div#intersitial-modal.interstitial-container
-estadao.com.br##div.ajuste-banner
-estadao.com.br##div.assine-estadao
-estadao.com.br##div.styles__Container-sc-1v8tg5g-0
 estadao.com.br##.article-softwall-banner
 estadao.com.br##.loaded.assine-area
 estadao.com.br##.nao-assinante.push-body
+estadao.com.br##div.ajuste-banner
+estadao.com.br##div.assine-estadao
+estadao.com.br##div.styles__Container-sc-1v8tg5g-0
+estadao.com.br##div#intersitial-modal.interstitial-container
 estadao.com.br##section.mold-assine
+||www.youtube.com/embed/$subdocument,domain=estadao.com.br
 
 ! Folha de S Paulo
 comentarios1.folha.uol.com.br/*
-paywall.folha.uol.com.br/*
+f5.folha.uol.com.br##.advertising--970xauto.advertising
 folha.uol.com.br##div.block.block--pub-super
-folha.uol.com.br##div.c-push-notification
 folha.uol.com.br##div.c-news__content > div.c-context.js-continue-reading-hidden
 folha.uol.com.br##div.c-news__content > div.rs_skip
+folha.uol.com.br##div.c-push-notification
 folha.uol.com.br##div#c-notification-link-app
 folha.uol.com.br##div#c-top-signup
 folha.uol.com.br##div#top-signup-close-bf
 folha.uol.com.br##section#comentarios
+paywall.folha.uol.com.br/*
 
 ! OGlobo
 cdn.ampproject.org
 cdn.onesignal.com/*
 cocoon.globo.com/*
 globo-ab.globo.com
-globo.com###ad-container-top-placeholder
-globo.com###boxComentarios
 globo.com##.comments
 globo.com##.content-ads
 globo.com##.glb-ads-container--hide
+globo.com###ad-container-top-placeholder
+globo.com###boxComentarios
 globo.com##div.ad-container-top-placeholder
 horizon-schemas.globo.com/*
 id.globo.com
@@ -73,51 +75,47 @@ cdn.oantagonista.com/assets/js/wallcontent*
 receiver.posclick.dinamize.com/forms/js/*
 cdn.oantagonista.com/chatbot/aewppchat*
 
-shownoticias.live/*
-
-legendei.net/z-5778106
-legendei.net/wp-includes/js/*
-legendei.net/wp-content/themes/simple-grid/assets/js/*
-legendei.net/wp-content/plugins/wordpress-popular-posts/assets/js/*
+! Legendei.net
 legendei.net/wp-content/plugins/featured-image-from-url/includes/html/js/*
+legendei.net/wp-content/plugins/wordpress-popular-posts/assets/js/*
+legendei.net/wp-content/themes/simple-grid/assets/js/*
+legendei.net/wp-includes/js/*
+legendei.net/z-5778106
 legendei.net##.aioseo-schema
+legendei.net##^meta[http-equiv="refresh"]
 legendei.net##+js(set, eazy_ad_unblocker_popup_params, null)
+shownoticias.live/*
 ||legendei.net/*$csp=script-src 'none'
+||www.youtube.com/embed/$subdocument,domain=legendei.net
 
+! HLTV.org
 hltv.org##.kgN8P9bvyb2EqDJR 
 hltv.org##.ggbe-firstcol-box
+hltv.org##.hpoujlijfd.column-euvSWYMDm4JzUCnc-box
+hltv.org##.mobile-normal-priority.col-8
+hltv.org##.mid-container
+hltv.org##.matchpage-analytics-section
+hltv.org##.matchpage-after-betting-web
+hltv.org###betting > .section-spacer
 
+! Runalyze
 runalyze.com/ads.js
 cwchat.runalyze.com/*
 cwchatcdn.runalyze.com/*
 
+! Other shit
 cdnjs.cloudflare.com/ajax/libs/crypto-js/*
 
 aqdha.com/script/*
 leteer.com/*
 adtng.com
+cdn.jsdelivr.net/npm/console-ban@*/dist/console-ban.min.js
+cdn.bj2550.com/*.js
 
-legendei.net##^meta[http-equiv="refresh"]
-||www.youtube.com/embed/$subdocument,domain=estadao.com.br
-||www.youtube.com/embed/$subdocument,domain=uol.com.br
+! Torrent dos filmes
 ||www.youtube.com/embed/$subdocument,domain=torrentdosfilmes.site
-||www.youtube.com/embed/$subdocument,domain=legendei.net
-
-! 2024-01-23 https://www.hltv.org
-www.hltv.org##.hpoujlijfd.column-euvSWYMDm4JzUCnc-box
-www.hltv.org##.mid-container
-www.hltv.org##.matchpage-analytics-section
-www.hltv.org##.matchpage-after-betting-web
-www.hltv.org###betting > .section-spacer
 
 
-https://cdn.jsdelivr.net/npm/console-ban@*/dist/console-ban.min.js
-
-https://cdn.bj2550.com/*.js
-
-! 2024-03-14 https://www.hltv.org
-www.hltv.org##.mobile-normal-priority.col-8
-
-! 2024-04-15 https://www.dust2.com.br
-www.dust2.com.br##.nav-topbar-banner-container
+! Dust2
+dust2.com.br##.nav-topbar-banner-container
 ||www.dust2.com.br/imgstatic/*.png?ixlib=java-2.1.0&s=*$image
