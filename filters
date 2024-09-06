@@ -3,7 +3,9 @@ abtest.conteudo.uol/
 cdn.tinypass.com/
 comentarios.uol.com.br/*
 conteudo.jsuol.com.br/p/perfil/js/widgetNotify.*
+geoip.home.uol.com
 page-context.uol.com.br/api/*
+player.fantascope.uol.com.br/
 privacy-sandbox.uol.com.br/
 tinypass.com/
 uol.com.br##.BannerDisneyPlay__Container
@@ -22,6 +24,7 @@ uol.com.br##.tp-modal-overscroll-prevented.tp-modal
 uol.com.br##.up-floating
 uol.com.br###uolpd-banner-inarticle
 uol.com.br##slot-m
+
 ||www.youtube.com/embed/$subdocument,domain=uol.com.br
 
 ! Estadão
@@ -114,6 +117,7 @@ cdn.bj2550.com/*.js
 
 ! Torrent dos filmes
 ||www.youtube.com/embed/$subdocument,domain=torrentdosfilmes.site
+smart-newsfeed.com/*
 
 
 ! Dust2
