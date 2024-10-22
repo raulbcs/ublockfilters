@@ -65,6 +65,7 @@ globo.com##.glb-ads-container--hide
 globo.com###ad-container-top-placeholder
 globo.com###boxComentarios
 globo.com##div.ad-container-top-placeholder
+globo.com##.ad-container
 horizon-schemas.globo.com/*
 id.globo.com
 s3.glbimg.com/v1/*/horizon-client/horizon-client-js.min.js
