@@ -111,6 +111,7 @@ horizon-schemas.globo.com/*
 id.globo.com
 s3.glbimg.com/v1/*/horizon-client/horizon-client-js.min.js
 static.infoglobo.com.br/paywall/js/*
+g1.globo.com##.bastian-page > ._evg > div._evt > .bastian-feed-item > .bstn-feed-ad
 
 ! Veja
 veja.abril.com.br/wp-content/plugins/abril-plugins/abril-paywall/*
