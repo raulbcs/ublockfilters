@@ -160,6 +160,7 @@ cdn.bj2550.com/*.js
 
 ! Torrent dos filmes
 ||www.youtube.com/embed/$subdocument,domain=torrentdosfilmes.site
+||www.youtube.com/embed/$subdocument,domain=bludv.xyz
 smart-newsfeed.com/*
 
 
