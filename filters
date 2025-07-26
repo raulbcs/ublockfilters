@@ -132,7 +132,7 @@ legendei.net##^meta[http-equiv="refresh"]
 legendei.net##+js(set, eazy_ad_unblocker_popup_params, null)
 shownoticias.live/*
 ||legendei.net/*$csp=script-src 'none'
-||www.youtube.com/embed/$subdocument,domain=legendei.net
+||youtube.com/$subdocument,domain=legendei.net
 
 ! HLTV.org
 hltv.org##.kgN8P9bvyb2EqDJR 
@@ -151,18 +151,19 @@ cwchatcdn.runalyze.com/*
 
 ! Other shit
 cdnjs.cloudflare.com/ajax/libs/crypto-js/*
-
 aqdha.com/script/*
 leteer.com/*
 adtng.com
 cdn.jsdelivr.net/npm/console-ban@*/dist/console-ban.min.js
 cdn.bj2550.com/*.js
 
-! Torrent dos filmes
-||www.youtube.com/embed/$subdocument,domain=torrentdosfilmes.site
-||www.youtube.com/embed/$subdocument,domain=bludv.xyz
+! Torrentdosfilmes / Bludv / Starckfilmes
+||youtube.com/$subdocument,domain=torrentdosfilmes.se
+||youtube.com/$subdocument,domain=bludv.xyz
+||youtube.com/$subdocument,domain=starckfilmes.online
+starckfilmes.online##+js(noeval)
+starckfilmes.online##+js(aopr, addEventsBtnDownloadMonitor)
 smart-newsfeed.com/*
-
 
 ! Dust2
 dust2.com.br##.nav-topbar-banner-container
