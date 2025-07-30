@@ -168,3 +168,6 @@ smart-newsfeed.com/*
 ! Dust2
 dust2.com.br##.nav-topbar-banner-container
 ||www.dust2.com.br/imgstatic/*.png?ixlib=java-2.1.0&s=*$image
+
+||cdn.jsdelivr.net/npm/disable-devtool$script
+||cdn.jsdelivr.net/npm/devtools-detector$script
