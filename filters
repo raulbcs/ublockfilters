@@ -161,6 +161,11 @@ cdn.bj2550.com/*.js
 ||youtube.com/$subdocument,domain=torrentdosfilmes.se
 ||youtube.com/$subdocument,domain=bludv.xyz
 ||youtube.com/$subdocument,domain=starckfilmes.online
+starckfilmes.online##.overlay-notification
+starckfilmes.online##.pop-container
+starckfilmes.online##+js(aopr, firstClick)
+starckfilmes.online##+js(aopr, window.open)
+starckfilmes.online##+js(nopopunder)
 starckfilmes.online##+js(noeval)
 starckfilmes.online##+js(aopr, addEventsBtnDownloadMonitor)
 smart-newsfeed.com/*
