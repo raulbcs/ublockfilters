@@ -159,9 +159,9 @@ cdn.jsdelivr.net/npm/console-ban@*/dist/console-ban.min.js
 cdn.bj2550.com/*.js
 
 ! Torrentdosfilmes / Bludv / Starckfilmes
-||youtube.com/$subdocument,domain=torrentdosfilmes.se
+||youtube.com/$subdocument,domain=torrentdosfilmes.net
 ||youtube.com/$subdocument,domain=bludv.xyz
-||youtube.com/$subdocument,domain=starckfilmes.fans
+||youtube.com/$subdocument,domain=starckfilmes-v2.com
 starckfilmes-v2.com##.overlay-notification
 starckfilmes-v2.com##.pop-container
 starckfilmes-v2.com##+js(aopr, firstClick)
