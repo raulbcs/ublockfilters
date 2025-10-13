@@ -162,15 +162,15 @@ cdn.bj2550.com/*.js
 ||youtube.com/$subdocument,domain=torrentdosfilmes.se
 ||youtube.com/$subdocument,domain=bludv.xyz
 ||youtube.com/$subdocument,domain=starckfilmes.fans
-starckfilmes.fans##.overlay-notification
-starckfilmes.fans##.pop-container
-starckfilmes.fans##+js(aopr, firstClick)
-starckfilmes.fans##+js(aopr, window.open)
-starckfilmes.fans##+js(nopopunder)
-starckfilmes.fans##+js(noeval)
-starckfilmes.fans##+js(aopr, addEventsBtnDownloadMonitor)
-starckfilmes.fans##+js(aopr, getNextAdLink)
-starckfilmes.fans##+js(define, getNextAdLink, () => null)
+starckfilmes-v2.com##.overlay-notification
+starckfilmes-v2.com##.pop-container
+starckfilmes-v2.com##+js(aopr, firstClick)
+starckfilmes-v2.com##+js(aopr, window.open)
+starckfilmes-v2.com##+js(nopopunder)
+starckfilmes-v2.com##+js(noeval)
+starckfilmes-v2.com##+js(aopr, addEventsBtnDownloadMonitor)
+starckfilmes-v2.com##+js(aopr, getNextAdLink)
+starckfilmes-v2.com##+js(define, getNextAdLink, () => null)
 smart-newsfeed.com/*
 
 ! Dust2
